@@ -1,1 +1,19 @@
-
+{
+    "courses":[
+        {
+            "id": 1,
+            "title": "Axios React",
+            "author": "Atindra Shekhar" 
+        },
+        {
+            "id": 2,
+            "title": "Axios React Native",
+            "author": "Atindra Shekhar" 
+        },
+        {
+            "id": 3,
+            "title": "Axios Javascript",
+            "author": "Atindra Shekhar" 
+        }
+    ]
+}
